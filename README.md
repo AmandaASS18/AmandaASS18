@@ -18,5 +18,3 @@
   ![Snake animation](https://github.com/amandaASS18/amandaASS18/blob/output/github-contribution-grid-snake.svg)
   
  </div>
- 
-##
